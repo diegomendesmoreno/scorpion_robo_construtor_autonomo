@@ -10,8 +10,8 @@ Time
 
 Links
 --------------
-[Blog - Scorpion, o Robô construtor autônomo](http://engenoob.blogspot.com.br/2015/06/scorpion-robo-construtor-autonomo.html)
-[YouTube - Scorpion, o Robô construtor autônomo](https://youtu.be/ymfdhoq2V6s)
+- [Blog - Scorpion, o Robô construtor autônomo](http://engenoob.blogspot.com.br/2015/06/scorpion-robo-construtor-autonomo.html)
+- [YouTube - Scorpion, o Robô construtor autônomo](https://youtu.be/ymfdhoq2V6s)
 
 
 Transcrição do código Arduino scorpion_robo_construtor_autonomo.ino
